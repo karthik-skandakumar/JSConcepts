@@ -27,7 +27,7 @@ john.presentation.call(emily, 'formal', 'Afternoon'); // Method borrowing.
 // john.presentation.apply(emily, ['formal', 'Afternoon']);
 
 
-
+/* Comment added to test git */
 
 /* 
   'Bind' is similar to call but it allows us to store the function with pre-set arguments.
